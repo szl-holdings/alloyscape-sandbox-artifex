@@ -1,0 +1,6 @@
+receipt      : drop-receipt v1 (artifex)
+file         : /opt/alloyscape/builder-sandboxes/artifex/craft/2026-09-20_shield-testimony-addendum.md
+stamped-utc  : 2026-09-20T05:50:33Z
+bytes        : 1388
+sha256       : 167acdfa4e48fe499f5296984ef814a94c8af7905f20d0ffcc6b3045ce2767cb
+belt         : ruflo=up orca=up (:6768)

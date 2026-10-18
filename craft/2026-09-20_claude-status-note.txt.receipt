@@ -1,0 +1,6 @@
+receipt      : drop-receipt v1 (artifex)
+file         : /opt/alloyscape/builder-sandboxes/artifex/craft/2026-09-20_claude-status-note.txt
+stamped-utc  : 2026-09-20T05:18:13Z
+bytes        : 320
+sha256       : e6ca23d4b6daaf2efdb6b239be18f34c3b314db109f83146fb3e8ef3e160e53a
+belt         : ruflo=up orca=down

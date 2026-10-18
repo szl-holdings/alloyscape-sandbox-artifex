@@ -1,0 +1,6 @@
+receipt      : drop-receipt v1 (artifex)
+file         : /opt/alloyscape/builder-sandboxes/artifex/craft/2026-09-20_phase1-audit-probe.txt
+stamped-utc  : 2026-09-20T05:08:57Z
+bytes        : 728
+sha256       : 5df7640e8d7ef880845ff440918626757239d9fbc9c74534ec923fe933a39836
+belt         : ruflo=up orca=up (:6768)

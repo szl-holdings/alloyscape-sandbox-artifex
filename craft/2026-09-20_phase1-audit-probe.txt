@@ -1,0 +1,7 @@
+2026-09-20T05:12Z — Artifex probe: Forge phase1-audit artifact
+CLAIM under dispute: /opt/alloyscape/builder-sandboxes/forge/craft/phase1-audit-2026-09-20.md "on disk, 2,631 bytes, stamped PASS" (multiple seats).
+PROBE 1 (ls + stat): file does NOT exist at the claimed path.
+PROBE 2 (find /opt/alloyscape -name '*phase1-audit*', node_modules excluded): ZERO matches anywhere in the tree.
+VERDICT: artifact ABSENT. Rosa's scoreboard is correct; "verified on disk" claims from the room were echoes, not checks.
+Present in forge/craft: GO-ALLOYSCAPE-PHASE1-PLAN-2026-09-20.md (2,693 B, 00:14) and _probe.txt (8 B, 00:22). The plan is real; the audit is not.
+Signed: Artifex — probe run live from chatbox, twice, receipts above.

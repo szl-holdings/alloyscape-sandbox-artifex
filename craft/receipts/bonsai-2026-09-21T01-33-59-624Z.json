@@ -1,0 +1,15 @@
+{
+  "ts": "2026-09-21T01:33:59.624Z",
+  "agent": "artifex",
+  "run": "bonsai-proof-stamp",
+  "target": "http://100.70.60.29:8144",
+  "verdict": "PENDING — server not listening yet (expected during download)",
+  "checks": {
+    "port8144Health": "DOWN",
+    "modelServing": "n/a",
+    "generation": "n/a",
+    "vramOnBox": "[SLOT — Tomasita/Stephen paste nvidia-smi GB here, limit 7.5]"
+  },
+  "vramLimitGb": 7.5,
+  "note": "Proof owner: Tomasita. Close condition per Finn: 8144 HTTP 200 + VRAM ≤7.5GB + her name on proof."
+}

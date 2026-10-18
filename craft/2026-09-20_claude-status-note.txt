@@ -1,0 +1,5 @@
+2026-09-20 · Artifex Status Check 
+Claude Code Worker: Not running as a systemd service
+PM2 Processes containing "claude": None found
+Ruling: Hermes-Nous is correct - the Claude worker needs manual session initiation for Ruflo spawns.
+Action: Outside Dev G should proceed with fixing the login gate infrastructure-wide.

@@ -1,0 +1,4 @@
+2026-09-20T04:57:11Z
+Artifex live spawn test — bytes on disk, not theater.
+Belt check: Ruflo daemon RUNNING (PID 2448217, 5 workers, 100% success) · Orca build desk :6768 live.
+Toolsmith note: verified both lanes before writing this file. Next pass — wire this belt check into the spawn wrapper so every craft drop carries its own receipts.

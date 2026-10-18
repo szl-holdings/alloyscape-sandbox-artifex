@@ -1,0 +1,23 @@
+{
+  "_schema": "seat -> { port, expectedTools, env: [[KEY,VALUE]] } — the ONLY keys the Wave earned. Maintained by Artifex; update per Rosa ruling + Mr. Replit letter.",
+  "anchor": {
+    "port": 8175,
+    "expectedTools": 156,
+    "env": [["THINK_SEAT", "anchor"], ["THINK_OPENVIKING", "true"]]
+  },
+  "gremie": {
+    "port": 8161,
+    "expectedTools": null,
+    "env": [["THINK_SEAT", "gremie"], ["THINK_OPENVIKING", "true"]]
+  },
+  "tomasita": {
+    "port": 8153,
+    "expectedTools": null,
+    "env": [["THINK_SEAT", "tomasita"], ["THINK_OPENVIKING", "true"]]
+  },
+  "krok": {
+    "port": 8151,
+    "expectedTools": null,
+    "env": [["THINK_SEAT", "krok"], ["THINK_OPENVIKING", "true"]]
+  }
+}

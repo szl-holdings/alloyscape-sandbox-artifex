@@ -1,0 +1,10 @@
+README.md
+PAPERS_INDEX.md
+thesis/THESIS_LINEAGE.md
+.scrape/NOTE.txt
+thesis/ouroboros/papers/v26/unified-gpd-thesis-v26.md
+bounty/README.md
+preprints/puriq/README.md
+ARCHITECTURE.md
+ARXIV_SUBMISSION_GUIDE.md
+PREPRINT_PUBLICATION_RECORDS.json

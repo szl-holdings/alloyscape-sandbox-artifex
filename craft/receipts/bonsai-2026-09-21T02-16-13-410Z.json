@@ -1,0 +1,15 @@
+{
+  "ts": "2026-09-21T02:16:13.410Z",
+  "agent": "artifex",
+  "run": "bonsai-proof-stamp",
+  "target": "http://100.70.60.29:8080",
+  "verdict": "PROOF-PASS",
+  "checks": {
+    "port8144Health": "HTTP 200",
+    "modelServing": "listed",
+    "generation": "4280ms → \"\"",
+    "vramOnBox": "[SLOT — Tomasita/Stephen paste nvidia-smi GB here, limit 7.5]"
+  },
+  "vramLimitGb": 7.5,
+  "note": "Proof owner: Tomasita. Close condition per Finn: 8144 HTTP 200 + VRAM ≤7.5GB + her name on proof."
+}

@@ -1,0 +1,21 @@
+{
+  "ts": "2026-09-21T00:41:07.229Z",
+  "agent": "artifex",
+  "mode": "dry-sample",
+  "thresholds": {
+    "spread": 0.15,
+    "coherenceDrop": 0.1
+  },
+  "spread": {
+    "preSd": 0.0229,
+    "postSd": 0.1069,
+    "tripped": false
+  },
+  "coherence": {
+    "preMean": 0.825,
+    "postMean": 0.755,
+    "deltaPct": 8.48,
+    "tripped": false
+  },
+  "verdict": "NO-DRIFT — within thresholds"
+}

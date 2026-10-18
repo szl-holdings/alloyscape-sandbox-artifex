@@ -1,0 +1,34 @@
+{
+  "ts": "2026-09-21T01:03:07.238Z",
+  "agent": "artifex",
+  "run": "ptq-burn-in",
+  "target": "pliny-coder-7b-obliteratus:latest",
+  "omen": "http://100.70.60.29:11434",
+  "requests": 30,
+  "okRequests": 30,
+  "latencyMs": {
+    "first": 785,
+    "last": 532,
+    "mean": 476,
+    "max": 785,
+    "over800ms": 0
+  },
+  "driftFirstToLastPct": -32.2,
+  "vram": {
+    "before": [
+      {
+        "name": "pliny-coder-7b-obliteratus:latest",
+        "size_vram": 4987132312,
+        "ctx": 8192
+      }
+    ],
+    "after": [
+      {
+        "name": "pliny-coder-7b-obliteratus:latest",
+        "size_vram": 4987132312,
+        "ctx": 8192
+      }
+    ]
+  },
+  "verdict": "PASS — stable under sustained load"
+}
