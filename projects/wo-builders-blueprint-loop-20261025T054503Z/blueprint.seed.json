@@ -1,0 +1,28 @@
+{
+  "kind": "builders_blueprint",
+  "title": "Self-serve starter span",
+  "materials": {
+    "self-healing_concrete": {
+      "protocol": "builders_loop",
+      "margin": 1.0
+    },
+    "steel_tendon": {
+      "protocol": "builders_loop",
+      "margin": 1.0
+    }
+  },
+  "structure": {
+    "type": "bridge_bay",
+    "stress_points": [
+      {
+        "id": "midspan",
+        "action": "thicken",
+        "factor": 1.0
+      }
+    ]
+  },
+  "meta": {
+    "seed": true,
+    "job": "wo-builders-blueprint-loop-20261025T054503Z"
+  }
+}

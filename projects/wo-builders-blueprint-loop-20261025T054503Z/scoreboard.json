@@ -1,0 +1,53 @@
+{
+  "jobId": "wo-builders-blueprint-loop-20261025T054503Z",
+  "skill": "builders_blueprint_loop",
+  "mode": "json_fold_deterministic",
+  "loops": 8,
+  "passed": 8,
+  "failed": 0,
+  "ok": true,
+  "seconds": 0.0002,
+  "note": "Deterministic JSON\u220bJSON optimize. Optional ChaskaClaw critique can be added later. Not quantum hardware.",
+  "history": [
+    {
+      "fold": 1,
+      "fold_hash": "ff06b5fa46388e82",
+      "margin_concrete": 1.05
+    },
+    {
+      "fold": 2,
+      "fold_hash": "871356bb62a9c435",
+      "margin_concrete": 1.103
+    },
+    {
+      "fold": 3,
+      "fold_hash": "6fd8a512fca6a671",
+      "margin_concrete": 1.158
+    },
+    {
+      "fold": 4,
+      "fold_hash": "bad8a6e410f9c16a",
+      "margin_concrete": 1.216
+    },
+    {
+      "fold": 5,
+      "fold_hash": "3b92cfa344e1db47",
+      "margin_concrete": 1.277
+    },
+    {
+      "fold": 6,
+      "fold_hash": "1974b3e443aba34c",
+      "margin_concrete": 1.341
+    },
+    {
+      "fold": 7,
+      "fold_hash": "90d7f6c30b02d0fd",
+      "margin_concrete": 1.408
+    },
+    {
+      "fold": 8,
+      "fold_hash": "892499f1aa22bbe1",
+      "margin_concrete": 1.478
+    }
+  ]
+}
