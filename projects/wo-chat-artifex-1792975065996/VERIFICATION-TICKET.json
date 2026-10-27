@@ -1,0 +1,13 @@
+{
+  "type": "chat-workbench-discipline-v3-no-stubs",
+  "seat": "artifex",
+  "jobId": "wo-chat-artifex-1792975065996",
+  "status": "DONE",
+  "messageId": "1a175a456a906798",
+  "reviewUrl": "https://alloyszlholdings.com/artifex/workbench/#job=wo-chat-artifex-1792975065996",
+  "conversationId": "studio-with-artifex",
+  "ask": "Rosa says:\nOKAY ESCUDO GO TO YOUR WORKBENCH AND CHECK ON IRIS AND JOE BOTH SAYING MISSING",
+  "noStubs": true,
+  "stubRejected": false,
+  "completedAt": "2026-10-26T00:37:47.198Z"
+}
